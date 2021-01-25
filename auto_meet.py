@@ -8,8 +8,8 @@ count_flag = 0
 
 def access_meet(num):
 	meet_url = [
-	"https://meet.google.com/xpv-mvyw-zcp",
-	"https://meet.google.com/uhk-nfbt-cae"
+	"https://meet.google.com/asdfasdf",
+	"https://meet.google.com/qwerqwer"
 	]
 	print(pyautogui.size())
 	os.startfile('chrome.exe')
